@@ -1,0 +1,1 @@
+export {changeTabNo,changeContent} from './Tab/tabAction'

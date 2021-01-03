@@ -1,0 +1,2 @@
+export const CHANGE_TAB_NO='CHANGE_TAB_NO'
+export const CHANGE_CONTENT='CHANGE_CONTENT'
