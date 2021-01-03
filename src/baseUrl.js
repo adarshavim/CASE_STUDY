@@ -1,1 +1,1 @@
-export const baseUrl='http://localhost:5000/image/';
+export const baseUrl='https://temp-casestudy-app.herokuapp.com/image/';

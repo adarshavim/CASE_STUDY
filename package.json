@@ -1,7 +1,7 @@
 {
   "name": "acies-casestudy",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000/",
+  "proxy": "https://temp-casestudy-app.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^1.6.12",
